@@ -1,0 +1,22 @@
+{
+  "username": "abhishek",
+  "email": "a@gmai.com",
+  "gender": "Male",
+  "hobbies": [
+    "Reading",
+    "Music"
+  ],
+  "profilePic": {
+    "originalName": "Screenshot 2026-09-26 041902.png",
+    "fileName": "1790376586219-Screenshot_2026-09-26_041902.png",
+    "url": "/uploads/profile/1790376586219-Screenshot_2026-09-26_041902.png"
+  },
+  "otherPics": [
+    {
+      "originalName": "Screenshot 2026-09-26 041848.png",
+      "fileName": "1790376586224-Screenshot_2026-09-26_041848.png",
+      "url": "/uploads/other/1790376586224-Screenshot_2026-09-26_041848.png"
+    }
+  ],
+  "submittedAt": "26/9/2026, 4:19:46 am"
+}
